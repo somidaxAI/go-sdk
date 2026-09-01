@@ -7,7 +7,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/somidax/go-sdk/somidax"
+	"github.com/somidaxAI/go-sdk/somidax"
 )
 
 func main() {
